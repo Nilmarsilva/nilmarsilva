@@ -124,25 +124,7 @@ Atuação principalmente em:
 
 ---
 
-<!-- ======================== GITHUB ======================== -->
 
-## 📊 GitHub
-
-<div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Nilmarsilva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Estatísticas do GitHub de Nilmar Silva"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilmarsilva&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas por Nilmar Silva"
-  />
-
-</div>
 
 <!-- ======================== FORMAÇÃO ======================== -->
 
