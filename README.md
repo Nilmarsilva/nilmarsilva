@@ -78,6 +78,24 @@ Já entreguei **6 projetos para 4 clientes**, incluindo:
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🤖 linkedin-vagas-bot
+
+Sistema completo de automação de busca de emprego: coleta vagas no
+LinkedIn com navegador automatizado, organiza num **painel kanban**
+com status por vaga e **mapeia formulários de candidatura**.
+**Python + Playwright** — desenvolvido com fluxo de issues, branches e PRs.
+
+<br>
+
+<a href="https://github.com/Nilmarsilva/linkedin-vagas-bot">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗺️ LeadMap
