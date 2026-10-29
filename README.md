@@ -7,7 +7,7 @@
 ### Desenvolvedor de Software em Formação
 
 🎓 Análise e Desenvolvimento de Sistemas — **PUC Minas**  
-💻 Foco atual em **C# • Backend • APIs • Banco de Dados**  
+🤖 Construo software com **agentes de código** no dia a dia  
 🔐 Formação complementar em **Cibersegurança — Hackers do Bem**
 
 <br>
@@ -30,15 +30,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Estou construindo minha carreira em **Desenvolvimento de Software**, atualmente cursando
-**Análise e Desenvolvimento de Sistemas na PUC Minas**.
+Estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas** e fundador da
+**AuthBrasil**, onde desenvolvo projetos reais para clientes desde 2025.
 
-Tenho experiência prática com projetos próprios e soluções para clientes, participando de
-**requisitos, organização da solução, testes, validação, APIs, automações e banco de dados**.
+Meu diferencial: **programo com agentes de código todos os dias** — decomponho
+problemas, escrevo instruções de projeto (CLAUDE.md/AGENTS.md), reviso e testo
+o que o agente gera, e entrego software em produção.
 
-Hoje meu foco é fortalecer os fundamentos e evoluir principalmente em:
+Já entreguei **6 projetos para 4 clientes**, incluindo:
 
-> **C# · Backend · APIs REST · SQL · Banco de Dados · Engenharia de Software**
+- 🔗 Automação em **n8n** integrando software próprio ao **CRM Pipedrive** (em produção)
+- 💼 Dois softwares internos para escritório de advocacia (em uso contínuo)
+- 🔎 Plataforma de consulta e análise de CNPJ com dados públicos
+
+> Foco atual: **Python · C# · APIs REST · SQL · Automação · Engenharia de Software**
 
 ---
 
@@ -57,10 +62,12 @@ Hoje meu foco é fortalecer os fundamentos e evoluir principalmente em:
 ### 🛠️ Contato prático em projetos
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,js,vite,postgres,docker,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,vite,postgres,docker,html,css,ts&theme=dark" />
 </p>
 
-> Tecnologias utilizadas em projetos próprios ou para clientes.  
+`Python` &nbsp; `React` &nbsp; `Docker` &nbsp; `n8n` &nbsp; `Supabase` &nbsp; `FastAPI`
+
+> Tecnologias utilizadas em projetos próprios ou para clientes.
 > Não representam necessariamente meu nível atual de especialização.
 
 ---
@@ -73,13 +80,15 @@ Hoje meu foco é fortalecer os fundamentos e evoluir principalmente em:
 <tr>
 <td width="50%" valign="top">
 
-### 🍕 APP Pizzaria
+### 🗺️ LeadMap
 
-Projeto público utilizado para prática e evolução dos meus conhecimentos em desenvolvimento.
+Ferramenta de prospecção que encontra empresas **sem website** no Google Maps,
+gerando leads exportáveis em CSV. **FastAPI + React + Docker + Places API** —
+construída 100% com agentes de IA.
 
 <br>
 
-<a href="https://github.com/Nilmarsilva/APP-Pizzaria">
+<a href="https://github.com/Nilmarsilva/LeadMap">
   <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -87,13 +96,45 @@ Projeto público utilizado para prática e evolução dos meus conhecimentos em 
 
 <td width="50%" valign="top">
 
-### 🎂 Projeto NiverZap
+### 🛡️ AllScan — CyberSecurity
 
-Projeto envolvendo automação e experimentação com envio programado de mensagens.
+Plataforma SaaS de análise de vulnerabilidades web: score de segurança,
+relatório PDF e status em tempo real. **React + Express + Supabase** (MVP).
 
 <br>
 
-<a href="https://github.com/Nilmarsilva/ProjetoNiverZap">
+<a href="https://github.com/Nilmarsilva/AuthBrasil-CyberSecurity">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### � chatwoot-pipedrive
+
+Integração entre plataforma de atendimento **Chatwoot/WhatsApp** e
+**CRM Pipedrive** — webhooks e sincronização de contatos e mensagens.
+
+<br>
+
+<a href="https://github.com/Nilmarsilva/chatwoot-pipedrive">
+  <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### � APP Pizzaria
+
+Sistema de pedidos web — prática de desenvolvimento com
+**PRs geradas por agentes de código** integradas ao projeto.
+
+<br>
+
+<a href="https://github.com/Nilmarsilva/APP-Pizzaria">
   <img src="https://img.shields.io/badge/VER%20REPOSITÓRIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -107,82 +148,12 @@ Projeto envolvendo automação e experimentação com envio programado de mensag
 
 ## 💼 Experiência prática
 
-### AuthBrasil
+### AuthBrasil — authbrasil.com.br
 
-Projetos independentes e soluções desenvolvidas para clientes.
+Projetos independentes e soluções desenvolvidas para clientes, incluindo
+integrações de API, automações n8n, CRM e sistemas internos em produção.
 
-Atuação principalmente em:
-
-`Requisitos` · `Testes` · `Validação` · `APIs` · `Automações` · `Banco de Dados` · `Aplicações Web`
+`Requisitos` · `APIs` · `Automação` · `n8n` · `Banco de Dados` · `Aplicações Web` · `Agentes de IA`
 
 > 🔒 Parte dos projetos profissionais possui código-fonte privado por questões
 > de confidencialidade e contratos com clientes.
-
-<a href="https://authbrasil.com.br/">
-  <img src="https://img.shields.io/badge/CONHECER%20PORTFÓLIO-AuthBrasil-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
----
-
-
-
-<!-- ======================== FORMAÇÃO ======================== -->
-
-## 🎓 Formação
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 PUC Minas
-
-**Tecnologia em Análise e Desenvolvimento de Sistemas**
-
-📅 2026 — 2028  
-📚 Em andamento
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Hackers do Bem
-
-**Formação em Cibersegurança**
-
-Fundamentos de segurança, redes, ameaças e vulnerabilidades.
-
-📚 Em andamento
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ======================== CONTATO ======================== -->
-
-<div align="center">
-
-## 🤝 Vamos conectar?
-
-Estou buscando minha primeira oportunidade como **Desenvolvedor Júnior**.
-
-<br>
-
-<a href="https://www.linkedin.com/in/nilmar-silva/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nilmar%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Nilmarsilva">
-  <img src="https://img.shields.io/badge/GitHub-Nilmarsilva-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://authbrasil.com.br/">
-  <img src="https://img.shields.io/badge/Portfólio-AuthBrasil-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>Construindo, estudando e evoluindo um commit de cada vez. 🚀</sub>
-
-</div>
